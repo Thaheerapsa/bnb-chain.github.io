@@ -1,4 +1,4 @@
----
+---620000
 title: Quick Guide - BNB Smart Chain (BSC)
 ---
 
